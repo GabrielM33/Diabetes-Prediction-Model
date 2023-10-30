@@ -3,6 +3,9 @@ This machine learning model is a powerful tool in the field of healthcare and di
 
 **Key Features**
 
+
+
+
 **Health Metrics:** The model takes a set of health-related metrics as input features. These metrics may include variables such as blood sugar levels, body mass index (BMI), age, family history, and other relevant health indicators.
 Linear Kernel: The linear kernel is employed as the core algorithm of the model. It works by finding an optimal linear boundary that best separates individuals into two classes: diabetic and non-diabetic. This boundary is derived from the input metrics and is used to make predictions.
 
